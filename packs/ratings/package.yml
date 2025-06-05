@@ -1,0 +1,4 @@
+---
+name: "ratings"
+enforce_dependencies: true
+enforce_privacy: true
